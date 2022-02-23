@@ -1,0 +1,2 @@
+Projeto de uma página de captura de informações(email, nome e localidade), usando apenas html e css.
+Nesse projeto eu aprendi novos estilos em css e novas tags em html, em html aprendi algumas tags semânticas como por exemplo header, section, footer. Também aprendi a usar formularios, inputs e select, os inputs ultilizados foram do tipo texto pra capturar o nome e o email do usuário, também usei o select que cria um menu dropdown com as cidades pra capturar a localidade escolhida pelo o usuário 
